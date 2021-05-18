@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cide Developer</string>
+    <string name="hotel_button">Hotéis </string>
+    <string name="favorite_button">Favoritos </string>
+    <string name="hotel_name">Name</string>
+    <string name="money_value">123</string>
+    <string name="hotel_city_text">City</string>
+    <string name="hotel_state_text">State</string>
+    <string name="money_type_text">R$</string>
+    <string name="separate_location">-</string>
+    <string name="hotel_amenity_text">Comodidades</string>
+    <string name="hotel_hospede_text">Hóspede</string>
+    <string name="amenety1_text">amenety1</string>
+    <string name="amenety2_text">amenety2</string>
+    <string name="amenety3_text">amenety3</string>
+    <string name="image_hotel_text">Image Hotel</string>
+    <string name="hotel_small_desc">Small Desc</string>
+    <string name="hotel_day">1 diária de</string>
+    <string name="hotel_tax">+ Taxas | Até 12x no cartão</string>
+    <string name="hotel_detais_button">Reservar</string>
+    <string name="image_slide">slide</string>
+    <string name="hotelHospedeAdult">adult</string>
+    <string name="hotel_children">children</string>
+    <string name="hotel_desc_adult">Adultos</string>
+    <string name="hotel_desc_children">Crianças</string>
+    <string name="hotel_max_people">Máximo de</string>
+    <string name="imageSize">Size</string>
+    <string name="descImagem">Fotos</string>
+    <string name="hotel_read_more"><u>Ler mais</u></string>
+    <string name="hotel_read_less"><u>Ler menos</u></string>
+</resources>
