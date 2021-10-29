@@ -3,7 +3,7 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-# <img src="https://avatars.githubusercontent.com/u/84100409?s=400.jpg" alt="HU" width="24" /> Cide Developer
+# <img src="https://avatars.githubusercontent.com/u/84100409?s=400.jpg" alt="HU" width="24" /> Desafio Alpha Hurb
 
 Desafio Alpha da Hurb
 
